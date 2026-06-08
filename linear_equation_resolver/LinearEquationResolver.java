@@ -1,3 +1,5 @@
+package linear_equation_resolver;
+
 import java.util.Scanner;
 
 public class LinearEquationResolver {

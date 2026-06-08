@@ -1,3 +1,5 @@
+package rectangle;
+
 import java.util.Scanner;
 
 public class Rectangle {
