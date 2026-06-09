@@ -1,4 +1,4 @@
-package currrent_date;
+package ex1.currrent_date;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package linear_equation_resolver;
+package ex1.linear_equation_resolver;
 
 import java.util.Scanner;
 

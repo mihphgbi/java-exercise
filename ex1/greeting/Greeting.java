@@ -1,4 +1,4 @@
-package greeting;
+package ex1.greeting;
 
 import java.util.Scanner;
 

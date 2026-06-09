@@ -1,4 +1,4 @@
-package variable_data_type;
+package ex1.variable_data_type;
 
 public class VariableDataType {
     public static void main(String[] args) {

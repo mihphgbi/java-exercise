@@ -1,4 +1,4 @@
-package wallet_system;
+package ex1.wallet_system;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

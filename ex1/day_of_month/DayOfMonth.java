@@ -1,4 +1,4 @@
-package day_of_month;
+package ex1.day_of_month;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package currency_conversion;
+package ex1.currency_conversion;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

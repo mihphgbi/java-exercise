@@ -1,4 +1,4 @@
-package rectangle;
+package ex1.rectangle;
 
 import java.util.Scanner;
 
@@ -12,6 +12,6 @@ public class Rectangle {
      width = scanner.nextFloat();
      System.out.println("Enter height");
      height = scanner.nextFloat();
-     System.out.println("Area of rectangle is: " + (width * height));
+     System.out.println("Area of ex1.rectangle is: " + (width * height));
     }
 }

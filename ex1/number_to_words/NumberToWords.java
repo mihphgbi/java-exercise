@@ -1,4 +1,4 @@
-package number_to_words;
+package ex1.number_to_words;
 
 import java.util.Scanner;
 
