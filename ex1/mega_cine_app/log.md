@@ -1,0 +1,4 @@
+- in LS-12.md, as a tester, give me all test case, edge case for TicketPricingService.
+- give me knowledge about Switch Expression of Java 14+
+- give me example for JUnit test basic
+- complete the test case for TicketPricingService (follow test case in LJ-12.md).
