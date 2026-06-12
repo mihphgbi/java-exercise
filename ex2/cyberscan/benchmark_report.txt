@@ -1,0 +1,11 @@
+Security Scanner Benchmark Report
+================================
+Test data size: 1000000 users
+Admin test position: 10
+
+Old version time: 676654100 ns
+New version time: 353200 ns
+Improvement: 99.95%
+Old version CPU Usage: 23.86%
+New version CPU Usage: 0.00%
+Improvement CPU Usage: 100.00%
