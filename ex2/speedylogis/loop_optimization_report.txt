@@ -1,0 +1,3 @@
+1. Đưa việc khởi tạo đối tượng ra ngoài vòng lặp
+2. Loại bỏ tính toán thuế trong vòng lặp nếu nó không thay đổi
+3. Thêm điều kiện kiểm tra để thoát sớm khỏi vòng lặp nếu tổng
